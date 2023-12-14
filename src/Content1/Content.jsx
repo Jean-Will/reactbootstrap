@@ -4,7 +4,7 @@ function Content() {
   return (
     <Accordion defaultActiveKey="0">
       <Accordion.Item eventKey="0">
-        <Accordion.Header >Accordion Item #1</Accordion.Header>
+        <Accordion.Header >About me</Accordion.Header>
         <Accordion.Body>
         Hello,
 I am a very focused and determined web developer,
