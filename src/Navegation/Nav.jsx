@@ -15,7 +15,7 @@ function Navegadores() {
           <Nav className="me-auto">
             <Nav.Link href="#home">Home</Nav.Link>
             <Nav.Link href="https://www.linkedin.com/in/jean-will-webdeveloper/">LinkdIn</Nav.Link>
-            <NavDropdown title="Dropdown" id="basic-nav-dropdown">
+            <NavDropdown title="Projects" id="basic-nav-dropdown">
               <NavDropdown.Item href="https://smartcalculator-js.netlify.app/">Calculator in Js</NavDropdown.Item>
               <NavDropdown.Item href="https://forms-javascript.netlify.app/">
                 Forms in Js
