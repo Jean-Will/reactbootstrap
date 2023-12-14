@@ -33,7 +33,7 @@ of loyal customers.
 using Node.js , Javascript and currently studying React.js , 
 I have seen a little SQL and C# , AzureDevops , I am available to learn and deepen any
 technology that is necessary for the project.
-you can see my projects here
+
         </Accordion.Body>
       </Accordion.Item>
     </Accordion>

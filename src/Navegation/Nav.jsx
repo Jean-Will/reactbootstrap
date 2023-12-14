@@ -13,7 +13,7 @@ function Navegadores() {
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="me-auto">
-            <Nav.Link href="#home">Home</Nav.Link>
+            <Nav.Link href="https://github.com/Jean-Will">GitHub</Nav.Link>
             <Nav.Link href="https://www.linkedin.com/in/jean-will-webdeveloper/">LinkdIn</Nav.Link>
             <NavDropdown title="Projects" id="basic-nav-dropdown">
               <NavDropdown.Item href="https://smartcalculator-js.netlify.app/">Calculator in Js</NavDropdown.Item>
@@ -21,10 +21,8 @@ function Navegadores() {
                 Forms in Js
               </NavDropdown.Item>
               <NavDropdown.Item href="https://sysbanking-angular.netlify.app/">Angular Project</NavDropdown.Item>
-              <NavDropdown.Divider />
-              <NavDropdown.Item href="#action/3.4">
-                Separated link
-              </NavDropdown.Item>
+              
+              
             </NavDropdown>
           </Nav>
         </Navbar.Collapse>
