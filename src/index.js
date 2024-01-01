@@ -2,10 +2,12 @@ import React from 'react';
 import ReactDOM from 'react-dom/client';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './index.css';
-import Navegadores from './Navegation/Nav';
-import Content from './Content1/Content';
+import Navegadores from './Component/Navegation/Nav';
+import Content from './Component/Content1/Content';
+
 
 import reportWebVitals from './reportWebVitals';
+
 
 
 
@@ -17,6 +19,7 @@ root.render(
   <React.StrictMode>
     
     <Navegadores />
+    
     <Content />
     
     
